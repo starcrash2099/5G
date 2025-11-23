@@ -1,0 +1,58 @@
+# MATLAB
+*.asv
+*.m~
+*.autosave
+
+# MATLAB Data Files
+*.mat
+!models/predictor_model.mat
+
+# Logs
+logs/*.txt
+logs/*.mat
+
+# Results (keep directory structure)
+results/*.png
+results/*.jpg
+results/*.fig
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# MATLAB Cache
+slprj/
+*.slxc
+
+# Documentation builds
+docs/_build/
+docs/.doctrees/
+
+# Python (if any helper scripts)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Keep directory structure
+!logs/.gitkeep
+!results/.gitkeep
+!models/.gitkeep
