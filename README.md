@@ -6,7 +6,6 @@
 
 > **Intelligent drone-based emergency communication system with AI routing, multi-protocol support, and satellite backhaul for disaster response scenarios.**
 
-![System Architecture](docs/architecture.png)
 
 ## 🎯 Overview
 
@@ -647,3 +646,4 @@ cfg.dt = 2.0;       % 2-second steps instead of 1
 Made with ❤️ for emergency response and disaster relief
 
 </div>
+
