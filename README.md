@@ -548,7 +548,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 - **Author**: PRIYAM GANGULI
-- **Email**: priyam.ganguli@example.com
+- **Email**: pganguli_be22@thapar.edu
 - **GitHub**: [@priyamganguli](https://github.com/priyamganguli)
 - **LinkedIn**: [Priyam Ganguli](https://linkedin.com/in/priyamganguli)
 
@@ -646,4 +646,5 @@ cfg.dt = 2.0;       % 2-second steps instead of 1
 Made with ❤️ for emergency response and disaster relief
 
 </div>
+
 
